@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Some Open-Source Projects<br><br>🌱 I’m currently learning DSA in C++ And Web Development<br><br>🤝 I’m looking for help with Blockchain Development and Pen Testing Tools <br><br>⚡ Fun fact - I am not Lazy I just participate Selectively
+🔭 I’m currently working on Some Open-Source Projects<br><br>🌱 I’m currently learning DSA in C++ And Web Development<br><br>🤝 I’m looking for help with Blockchain Development and Pen Testing Tools <br><br>⚡ Fun fact - I am not Lazy I just choose selective paricipation 😀
 
 
 ## 🌐 Socials:
