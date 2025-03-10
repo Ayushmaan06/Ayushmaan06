@@ -3,7 +3,7 @@
 <h3 align="center">Sanguine 😃</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Some Open-Source Projects<br><br>🌱 I’m currently learning Docker and Data Analytics<br><br>🤝 I’m looking for help with Blockchain Development and Pen Testing Tools<br><br>⚡ Fun fact - I am not Lazy I just choose selective paricipation 😀
+🔭 I’m currently working on Some Open-Source Projects<br><br>🌱 I’m currently learning Deep Learning <br><br>🤝 I’m looking for help with Blockchain Development and Pen Testing Tools<br><br>⚡ Fun fact - I am not Lazy I just choose selective paricipation 😀
 
 
 ## 🌐 Socials:
